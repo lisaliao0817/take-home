@@ -5,16 +5,16 @@
 
 }
 
-.form-group {
+.formGroup {
 	margin-bottom: 15px;
 }
 
-.form-group label {
+.formGroup label {
 	display: block;
 	margin-bottom: 5px;
 }
 
-.form-group input {
+.formGroup input {
 	width: 100%;
 	padding: 5px;
 }
