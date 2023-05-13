@@ -1,28 +1,3 @@
-.container {
-	width: 300px;
-	margin: 0 auto;
-	display: flexbox;
-
-}
-
-.formGroup {
-	margin-bottom: 15px;
-}
-
-.formGroup label {
-	display: block;
-	margin-bottom: 5px;
-}
-
-.formGroup input {
-	width: 100%;
-	padding: 5px;
-}
-
-.btn {
-	padding: 10px 15px;
-	background-color: #4CAF50;
-	color: white;
-	border: none;
-	cursor: pointer;
-}
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';

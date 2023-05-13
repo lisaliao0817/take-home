@@ -1,3 +1,4 @@
 .env
+venv/
+build/
 node_modules/
-frontend/node_modules
