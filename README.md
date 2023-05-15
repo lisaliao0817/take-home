@@ -89,23 +89,3 @@ Click the "Connect to Robot" button to be directed to the streaming page.
 
 ### Streaming Page and Device Response:
 Click the "Send Command" button to send the command to the IoT device. Currently, there is an error when sending a command to the device.
-
-
-## Setting up
-```
-git clone
-```
-
-## Tech Stack
-
-## Installing and Running
-
-## Frontend
-
-## Backend
-
-## IoT
-
-## Running Docker
-
-## Running Tests
